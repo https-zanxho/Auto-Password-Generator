@@ -35,4 +35,4 @@ A simple command-line tool built to practice randomness, input validation, and s
 Run in a terminal:
 
 ```bash
-python "main.py"
+python3 src/main.py
